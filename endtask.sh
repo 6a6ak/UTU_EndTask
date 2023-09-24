@@ -1,6 +1,6 @@
 #!/bin/bash
 
-while true
+
 do
     # Ask the user for the name of the process
     echo "Enter the name of the process to kill (or 0 to exit):"
