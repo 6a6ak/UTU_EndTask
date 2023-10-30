@@ -26,3 +26,4 @@ sudo mv endtask.sh /usr/local/bin/endtask
 Note that we've removed the .sh extension - this is a common convention when moving scripts to bin directories.
 
 After doing this, you should be able to run your script from anywhere just by typing endtask.
+
