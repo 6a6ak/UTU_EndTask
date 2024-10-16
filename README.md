@@ -1,8 +1,8 @@
 ### UTU_EndTask
 
-Hart to find a task in the top command in the terminal?
+Hard to find a task in the top command in the terminal?
 
-just run this script and find a similar task and kill by PID 
+just run this script find a similar task and kill by PID 
 
 ### To make this script run by just writing endtask in the terminal follow this instruction 
 
